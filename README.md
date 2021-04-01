@@ -1,64 +1,71 @@
 ---
-description: A DeFi powered space game with yield generating NFTs (spaceships)
+description: Find here the most common questions (to be completed)
 ---
 
-# Cometh.io
+# ❓FAQ
 
-### **What is Cometh?**
+## 🕹 GAME
 
-![](.gitbook/assets/1_lceah15ttt6mek-00kobvq.png)
+### My Spaceship/MUST disappeared during a L1&lt;&gt;L2 transfer
 
-[Cometh](https://cometh.io/) is a groundbreaking and evolving strategy game set in a persistent and sustainable space-inspired metaverse powered by Ethereum's blockchain. 
+You will probably find your ships and MUST right here [https://bridge.cometh.io/unlock](https://bridge.cometh.io/unlock)  
+• Go to: [https://explorer-mainnet.maticvigil.com](https://explorer-mainnet.maticvigil.com/tokens)  
+• Search for your ETH address \(starts with 0x....\)  
+• Find the transaction related to the transfer  
+• Copy the Transaction hash 
 
-**The Cometh game consists in players mining asteroids to get tokens as rewards.**
+![](.gitbook/assets/image%20%282%29.png)
 
-Cometh’s ecosystem leverages Ethereum-based DeFi \(Decentralized Finance\) in a fun and original way to enable players to collect, trade, and earn tokens from ERC-20 protocols, and also NFT’s unique to the Cometh Metaverse.   
-  
-On [app.cometh.io](https://app.cometh.io/) you can see applications and tools composing the Cometh Metaverse.
+• Put it into [https://bridge.cometh.io/unlock](https://bridge.cometh.io/unlock)
 
-![](.gitbook/assets/2f82f25a92c3420665ff85a6bd1c743e.png)
+### I have an error while trying to mine a comet / jumping?
 
-Cometh leverages ‘layer 2’ scaling solutions including both [Polygon](https://polygon.technology/) \(formerly Matic\) and \(soon\) Arbitrum’s Optimistic Rollups so that players can focus on the game instead of blockchain-related fees.
+* Check your must allowance on the bottom left corner of the screen
+* Check if you have enough MATIC in your account to pay for the transaction
+* Are you sure there are still rewards to be mined? depending on your browser, comets may still appear on the screen but in reality, it has been emptied.
+* If none of those work, please [message us on discord](https://discord.gg/NR6nFG59Zy) \(don't forget to copy the transaction error so we can investigate\)
 
-## 1. [How to play the game](game/how-to-play-cometh-1.md) 🕹
+###  **How is jump/pull price calculated?** 
 
-After you [Enter the game](game/cometh-bridge.md), discover[ How to play](https://app.gitbook.com/@cometh/s/cometh/game/how-to-play-cometh-1) and mine your first comets ☄️
+Jump/Pull price is based on what players set as pull price
 
-![Live footage of a honest space farmer, mining a comet with his spaceship](.gitbook/assets/mining.gif)
+###  **How are fees calculated?** 
 
-## 2. You've played. What's next?
+Fees on Jumps are 5%, going back to comets for players to mine
 
-Have you just mined a comet? Learn [What to do after mining](what-to-do-after-mining/)
+###  **Why fees?** 
 
-![](.gitbook/assets/pool.png)
+Fees on Jumps are here to feed comets with game proceeds as well as preventing players to jump when not necessary.
 
-Want to learn how to leverage your earnings? Read more more about the [farm/earn token](https://app.gitbook.com/@cometh/s/cometh/staking-rewards) mechanics.
+### **Can I buy or redeem Spaceship on Matic?** 
 
-#### [ComethSwap](https://swap.cometh.io/#/swap) is the next step !
+Not from the "Cometh forge" yet, we’re working on it. However you can buy L2 secondary market spaceship on [https://matic.opensea.io/](https://matic.opensea.io/)
 
-## 3. Use [ComethSwap](https://swap.cometh.io/#/swap) to leverage your rewards
+## **☄️ COMETHSWAP**
 
-Learn everything you need to know about [ComethSwap](comethswap-1/comethswap/) [**here**](https://app.gitbook.com/@cometh/s/cometh/comethswap)
+### **How do I use ComethSwap?**
 
-![](.gitbook/assets/image%20%286%29.png)
+Read the [Comethswap](comethswap-1/comethswap/) guide and bridge funds from Ethereum to Matic using this tutorial: [https://medium.com/cometh/how-to-provide-liquidity-on-comethswap-%EF%B8%8F-and-chase-the-highest-yield-on-polygon-matic-120e61fd02bf](https://medium.com/cometh/how-to-provide-liquidity-on-comethswap-%EF%B8%8F-and-chase-the-highest-yield-on-polygon-matic-120e61fd02bf)  
 
-## 4. Learn more about [Spaceships](https://app.gitbook.com/@cometh/s/cometh/spaceships/spaceships)
 
-To play, you will need a spaceship NFT 🛸
+### How do I earn rewards on ComethSwap?
 
-![](.gitbook/assets/plan-de-travail-3-copie-0.5x.png)
+Make sure your read this guide:  [How to provide liquidity and farm on ComethSwap ⚗️](comethswap-1/comethswap/how-to-provide-liquidity-on-comethswap.md)
 
-> [How to get your own spaceship](spaceships/how-to-get-spaceships-to-complete.md)?
+## **🛸 SPACESHIPS**
 
-Players can visit our shop on [Opensea](https://opensea.io/collection/cometh-spaceships/) and purchase NFTs for use in the game.   
-The proceeds of the sales are used to create prizes for the players and distribute [MUST](comethswap-1/tokens/) ⚗️ as cashback.
+### **What is Mining Range?** 
 
-**You can also rent spaceships directly on Layer2 via** [**ComethRental** ](https://rental.cometh.io/)**!** 
+Range around your spaceship in which a comet has to go through for you to be able to mine it
 
-## 5. What is [MUST](comethswap-1/tokens/) **⚗️**
+### **What is Mining Power?** 
 
-**MUST is the main currency of the Cometh ecosystem.**   
-It is a \(ERC20\) token lying on the Ethereum blockchain.  
-  
-**Learn more about** [**Tokens**](comethswap-1/tokens/) **and** [**Hot to get MUST**](comethswap-1/tokens/how-to-get-usdmust.md)\*\*\*\*
+% of Mining rewards that you will get by mining comets
 
+### **What are Mining Rewards?** 
+
+\# of tokens you will mine by mining a comet in the range of your spaceship
+
+### **What is Mining Cooldown?** 
+
+Duration \(in seconds\) after mining a comets during which you cannot mine
